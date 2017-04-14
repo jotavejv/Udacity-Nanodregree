@@ -3,9 +3,9 @@ Udacity Front-End Developer Nanodregree
 
 ### Certificate
 
-![Certificate](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16670/Screenshot at Jan 19 09-24-53.png)
+![Certificate](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16670/Screenshot%20at%20Jan%2019%2009-24-53.png)
 
-###List of Nanodegree's project
+### List of Nanodegree's project
 
 1. [Udacity-nanodegree-resume](https://github.com/jotavejv/Udacity-nanodegree-resume)
 2. [Udacity-nanodegree-mobile-portfolio](https://github.com/jotavejv/Udacity-nanodegree-mobile-portfolio)
